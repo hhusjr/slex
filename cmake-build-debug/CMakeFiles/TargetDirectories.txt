@@ -1,0 +1,7 @@
+/Users/zeroisone/projects/slang/slex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zeroisone/projects/slang/slex/cmake-build-debug/CMakeFiles/test.dir
+/Users/zeroisone/projects/slang/slex/cmake-build-debug/CMakeFiles/slex.dir
+/Users/zeroisone/projects/slang/slex/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zeroisone/projects/slang/slex/cmake-build-debug/CMakeFiles/scanner.dir
+/Users/zeroisone/projects/slang/slex/cmake-build-debug/CMakeFiles/regexp.dir
+/Users/zeroisone/projects/slang/slex/cmake-build-debug/CMakeFiles/nfa_to_min_dfa.dir

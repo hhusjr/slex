@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zeroisone/projects/slang/slex/fa.c
+stdio.h
+-
+stdint.h
+-
+stdbool.h
+-
+stdlib.h
+-
+string.h
+-
+fa.h
+/Users/zeroisone/projects/slang/slex/fa.h
+
+/Users/zeroisone/projects/slang/slex/fa.h
+slex_t.h
+/Users/zeroisone/projects/slang/slex/slex_t.h
+stdint.h
+-
+
+/Users/zeroisone/projects/slang/slex/slex_t.h
+stdbool.h
+/Users/zeroisone/projects/slang/slex/stdbool.h
+wchar.h
+-
+
